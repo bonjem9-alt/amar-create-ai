@@ -1,9 +1,0 @@
-{
-  "name": "Amar Create AI",
-  "short_name": "Amar Create",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#090d18",
-  "theme_color": "#090d18",
-  "description": "Build web and mobile apps with AI"
-}
