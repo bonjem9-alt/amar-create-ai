@@ -1,0 +1,6 @@
+{
+  "appId": "com.amarcreate.ai",
+  "appName": "Amar Create AI",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
